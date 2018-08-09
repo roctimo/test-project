@@ -1,7 +1,7 @@
 //bad typescript
 
-constd hello: string;
+const hello: string;
 
-var dude = 'what';
+const dude = 'what';
 
-let bad = 'bad;
+const bad = 'bad';
