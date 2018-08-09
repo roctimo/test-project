@@ -1,1 +1,1 @@
-const hello: string;
+var hello: string;
