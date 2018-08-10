@@ -1,1 +1,1 @@
-var hello: string;
+let hello: string;
