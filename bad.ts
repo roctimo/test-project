@@ -1,4 +1,4 @@
-// bad typescript
+//bad typescript
 
 const hello: string;
 
