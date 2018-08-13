@@ -1,6 +1,6 @@
 // here is a comment
 
-const code = 'this is a string;
+const code = 'this is a string';
 
 let array = [];
 
