@@ -6,12 +6,12 @@ import { environment } from './environments/environment'
 
 // bad comment
 
-if (environment.production) {
+if (environment.production) { 
   enableProdMode();
 }
 
 platformBrowserDynamic().bootstrapModule(AppModule)
-  .catch(rr => console.log(err));
+  .catch(rr => console.log(err)); 
 
 
 
