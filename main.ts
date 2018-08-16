@@ -6,7 +6,7 @@ import { environment } from './environments/environment';
 
 // bad comment
 
-if (environment.production) { 
+if (environment.production) {
   enableProdMode();
 }
 
