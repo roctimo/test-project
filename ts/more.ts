@@ -1,7 +1,7 @@
-// here is a comment
+//here is a comment 
 
 const code = 'this is a string';
 
 let array = [farts];
 
-const yes = 'no';
+const yes = 'no;
