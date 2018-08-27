@@ -4,6 +4,6 @@ const code = 'this is a string';
 
 let array = [farts];
 
-const yes = 'no'
+const yes = 'no';
 
 
