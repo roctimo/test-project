@@ -10,6 +10,8 @@ if (environment.production) {
   enableProdMode()
 }
 
+console.log('this shouldn\'t be here');
+
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(rr => console.log(err));
 
