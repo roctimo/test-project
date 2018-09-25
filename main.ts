@@ -7,7 +7,7 @@ import { environment } from './environments/environment';
 // bad comment
 
 if (environment.production) {
-  enableProdMode();
+  enableProdMode()
 }
 
 console.log('this shouldn\'t be here');
