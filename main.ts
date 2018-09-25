@@ -6,11 +6,13 @@ import { environment } from './environments/environment';
 
 //bad comment
 
+/another bad comment
+
 if (environment.production) {
   enableProdMode();
 }
 
-console.info('this shouldn\'t be here');
+console.log('this shouldn\'t be here');
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(rr => console.log(err))
